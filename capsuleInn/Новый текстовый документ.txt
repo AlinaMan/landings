@@ -1,0 +1,7 @@
+db: zhibe113_CapsuleInn
+db user: zhibe113_CapsInn
+password: Qv7NJ8VKX?hY
+
+https://fr.capsulehotel.kz/manager/
+login: admin
+password: Qv7NJ8VKX?hY
